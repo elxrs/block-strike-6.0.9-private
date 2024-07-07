@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3a6bcbbca39de29408b28166ecde39f2
+timeCreated: 1708791084
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - player: {fileID: 2800000, guid: f4f03a5ed8477344185a701ce64789bd, type: 3}
+  - weapon: {fileID: 2800000, guid: 2d9f5e3c2a14627419520e4ebd1e271f, type: 3}
+  - text: {fileID: 2800000, guid: e4760d3685dff474e8c44cf4dcc97845, type: 3}
+  - room: {fileID: 2800000, guid: 3b6e45082ad216a43833e5342e135b80, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
