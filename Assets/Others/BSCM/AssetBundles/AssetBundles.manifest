@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 3095419022
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: test.bscm
+      Dependencies: {}
